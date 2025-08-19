@@ -11,4 +11,5 @@ Na tela, múltiplos circulos se movimentam, colidem nas bordas e mudam de cor, c
 - **JavaScript** → lógica da animação, movimentação, colisão e mudança de cor dos circulos.  
 
 ---
-
+## Demo
+[**Acesse a animação aqui**](https://mleilane.github.io/WebPage-Animacao-no-Canvas-Circulos/)
